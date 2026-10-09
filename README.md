@@ -203,54 +203,42 @@ Image-classification system for detecting Lumpy Skin Disease in cattle.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,git,github,docker,sqlite&theme=dark" alt="core"/>
-
-**ML & Deep Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" alt="ml"/>
-
-**Backend & Apps**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="apps"/>
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-**Agentic AI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-
-**Retrieval & NLP**
-
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-
-</div>
+| | Area | Tools |
+|:-:|:--|:--|
+| 🤖 | **Agentic AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
+| 🔎 | **Retrieval & NLP** | ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge) ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![DistilBERT](https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![BART](https://img.shields.io/badge/BART-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![AraBERT](https://img.shields.io/badge/AraBERT-16A34A?style=for-the-badge) |
+| 👁️ | **Computer Vision** | ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| 🧪 | **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge) ![SHAP](https://img.shields.io/badge/SHAP-8B5CF6?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) |
+| ⚙️ | **Backend & Apps** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| 🧰 | **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Portfolio at a Glance
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAkl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAkl&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+![Projects](https://img.shields.io/badge/Shipped%20Projects-18-38BDF8?style=for-the-badge)
+![Live Demos](https://img.shields.io/badge/Live%20Demos-3-22C55E?style=for-the-badge)
+![Domains](https://img.shields.io/badge/AI%20Domains-5-8B5CF6?style=for-the-badge)
+![Arabic NLP](https://img.shields.io/badge/Arabic%20NLP-2%20Projects-F59E0B?style=for-the-badge)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanAkl&theme=tokyonight&hide_border=true" alt="streak"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrhmanAkl&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity"/>
+```text
+Where my projects sit
+────────────────────────────────────────────
+NLP & Language Intelligence   ███████  7
+Agentic AI & Decision Systems ████     4
+RAG & Knowledge Systems       ███      3
+Computer Vision               ██       2
+Applied Machine Learning      ██       2
+────────────────────────────────────────────
+```
+
+<div align="center">
+
+[![Latest work](https://img.shields.io/badge/Latest-ORACLE--X%20%E2%80%94%20Autonomous%20Decision%20Intelligence-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrhmanAkl/ORACLE-X)
 
 </div>
 
