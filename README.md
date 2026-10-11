@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-AbdelrhmanAkl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrhmanAkl)
 [![Open to work](https://img.shields.io/badge/Open%20to-AI%20%2F%20ML%20Engineer%20roles-22C55E?style=for-the-badge)](https://www.linkedin.com/in/abdelrahmanakl/)
 
-![Profile views](https://komarev.com/ghpvc/?username=AbdelrhmanAkl&label=Profile+views&color=0e75b6&style=flat-square)
 ![Repos](https://img.shields.io/badge/Public%20Repos-19%2B-38BDF8?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20RAG%20%7C%20NLP%20%7C%20CV-8B5CF6?style=flat-square)
 
