@@ -218,7 +218,7 @@ Image-classification system for detecting Lumpy Skin Disease in cattle.
 <div align="center">
 
 ![Projects](https://img.shields.io/badge/Shipped%20Projects-18-38BDF8?style=for-the-badge)
-![Live Demos](https://img.shields.io/badge/Live%20Demos-3-22C55E?style=for-the-badge)
+![Live Demos](https://img.shields.io/badge/Live%20Demos-18-22C55E?style=for-the-badge)
 ![Domains](https://img.shields.io/badge/AI%20Domains-5-8B5CF6?style=for-the-badge)
 ![Arabic NLP](https://img.shields.io/badge/Arabic%20NLP-2%20Projects-F59E0B?style=for-the-badge)
 
